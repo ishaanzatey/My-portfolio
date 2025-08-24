@@ -162,16 +162,6 @@ The website uses CSS custom properties for easy color customization. Edit the `:
 
 Feel free to fork this project and customize it for your own portfolio. If you make improvements that could benefit others, consider submitting a pull request.
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- **Apple** for design inspiration
-- **Inter font family** by Google Fonts
-- **CSS Grid and Flexbox** for modern layouts
-- **Intersection Observer API** for scroll animations
 
 ---
 
